@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color_bg_red"        >#FF5959</color>
+    <color name="color_bg_gray"       >#F1F1F1</color>
+    <color name="color_home_gray"     >#F3F3F3</color>
+    <color name="color_bg_button"     >#FE4646</color>
+    <color name="color_bg_pink"       >#FFA2A2</color>
+
+    <color name="color_white"         >#FFFFFFFF</color>
+    <color name="color_white_trans">#00FFFFFF</color>
+    <color name="color_white_tran">#FFFFFF</color>
+    <color name="color_hint_gray"     >#DDDDDD</color>
+    <color name="color_line_gray"     >#E4E4E4</color>
+    <color name="color_line_deep_gray">#CCCCCC</color>
+
+    <color name="color_text_black"    >#333333</color>
+    <color name="color_text_gray"     >#999999</color>
+    <color name="color_text_deep_gray">#666666</color>
+    <color name="color_text_red">#FD413D</color>
+    <color name="color_btn_red">#FD4847</color>
+    <color name="color_search_gray">#DCDCDC</color>
+    <color name="color_tag_gray">#F8F8F8</color>
+    <color name="color_add_yellow">#FFA645</color>
+    <color name="color_text_blue"   >#31b0f2</color>
+    <color name="color_line_divide"   >#e5e5e5</color>
+    <color name="color_line_divide_trans">#00e5e5e5</color>
+</resources>
